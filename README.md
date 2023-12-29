@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Testes Unitários com C#
+# DIO - Trilha .NET - Testes Unitários com C# - Resolvido por ViniHGV ✔
 www.dio.me
 
 ## Desafio de projeto
@@ -77,5 +77,8 @@ O projeto está estruturado da seguinte maneira:
 ![Métodos Swagger](Imagens/projeto.png)
 
 
-## Solução
+## ✔ Solução
 O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## ❔ Como Resolvi Desafio?
+Com a estenção vscode-solution-explorer ( Solution ) abri aws configurações do Tests.csproj da sessão de testes, em referencia adicionei um project como referência que é meu Console.csproj. Com a referência criada adicionei e editei camadas de teste para ser concluido com sucesso!!
