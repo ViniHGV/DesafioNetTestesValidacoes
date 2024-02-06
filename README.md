@@ -81,4 +81,4 @@ O projeto está estruturado da seguinte maneira:
 O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 ## ❔ Como Resolvi Desafio?
-Com a estenção vscode-solution-explorer ( Solution ) abri aws configurações do Tests.csproj da sessão de testes, em referencia adicionei um project como referência que é meu Console.csproj. Com a referência criada adicionei e editei camadas de teste para ser concluido com sucesso!!
+Com a extenção vscode-solution-explorer ( Solution ) abri aws configurações do Tests.csproj da sessão de testes, em referencia adicionei um project como referência que é meu Console.csproj. Com a referência criada adicionei e editei camadas de teste para ser concluido com sucesso!!
